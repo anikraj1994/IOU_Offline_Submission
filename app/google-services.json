@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_id": "ioutest-1254",
+    "project_number": "630008679705",
+    "name": "ioutest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630008679705:android:9eaac16a67292817",
+        "client_id": "android:me.anikraj.iou",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "me.anikraj.iou",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630008679705-4sa4r55koimq64r20qk63rqn0dj3ucn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
